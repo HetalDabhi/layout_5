@@ -1,0 +1,555 @@
+
+body
+{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.back
+{
+    background-image: url("firstlast.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.carty
+{
+	color: white;
+	padding-left: 10%;
+	font-size: 22px;
+}
+.btn-group
+{
+	position: relative;
+	left:18%;
+}
+.btn
+{
+	color: gray;
+
+}
+.get
+{
+	background-color: rgba(128, 128, 128, 0.3);
+	border-radius: 50px;
+	position:relative;
+	left:23%;
+	padding-left: 2%;
+	padding-right: 2%;
+	color: white;
+}
+.digitize
+{
+	font-size: 90px;
+	padding-left: 10%;
+	color: white;
+	padding-top: 4%;
+}
+.financial
+{
+	font-size: 90px;
+	padding-left: 10%;
+	color: white;
+	position: relative;
+	top:-35px;
+	
+}
+.money
+{
+	font-size: 22px;
+	padding-top: 7%;
+	padding-left: 2%;
+	color: gray;
+}
+.now
+{
+	background-color:rgb(143, 228, 78);
+	border-radius: 50px;
+	position: relative;
+	font-size: 30px;
+	padding-left: 4%;
+	padding-right: 5%;
+	color:black ;
+}
+
+.round-button
+{
+	border-radius: 50px;
+	
+	background-color: rgba(128, 128, 128, 0.3);
+	border:none;
+	color: gray;
+	width:fit-content;
+	width: 60px;
+	height: 60px;
+	padding: 2%;
+
+	margin-left: 4%;
+}
+.tri
+{
+	height:100%;
+	width: 100%;
+}
+.round-button:hover
+{
+  background-color: black;
+}
+.seconde
+{
+	padding-left: 6%;
+}
+.one
+{
+	font-size: 260px;
+	color: rgba(128, 128, 128, 0.2);
+	font-weight: bold;
+	padding-top: -120px;
+}
+.feat
+{
+	font-size: 30px;
+	position: relative;
+	top:-26%;
+	padding-left: 10%;
+	color: rgb(128, 128, 128);
+
+}
+.best
+{
+	font-size: 70px;
+	position: relative;
+	top:-28%;
+	padding-left: 9%;
+	font-weight: 450;
+}
+.provide
+{
+	position: relative;
+	top:-32px;
+}
+.more
+{
+	position: relative;
+	top:-240px;
+	font-size: 26px;
+	padding-left: 9%;
+	color: rgb(128, 128, 128);
+}
+.start
+{
+	color: white;
+	background-color: black;
+	border-radius: 50px;
+	position: relative;
+	top:-180px;
+	left: 20px;
+	margin-left: 8%;
+    padding:2% 5%  ;
+    font-weight: bold;
+    width: 170px;
+}
+.learn
+{
+	position: relative;
+	top:-180px;
+	padding-left: 15%;
+	font-weight: bold;
+	font-size: 20px;
+}
+.medium
+{
+	position: relative;
+	top:150px;
+}
+.protect
+{
+   
+    width: 200px;
+    height: 250px;
+    border-radius:20px;
+    background-color:rgba(128, 128, 128, 0.1);
+    color: rgba(128, 128, 128,0.4);
+    position: relative;
+    left: 5%;
+    margin-bottom: 8%;
+    padding-top: 30px;
+}
+.shield
+{
+    font-size: 100px;
+}
+.cell-spacing
+{
+    padding-right:20px;
+}
+.wave
+{
+	padding-top: 12%;
+}
+.protect:hover
+{
+    background-color: black;
+    opacity: 1;
+    color: white;
+    height:250px;
+    width: 250px;
+
+}
+.know
+{
+	position: relative;
+	top:-180px;
+	left: 5%;
+}
+
+.one
+{
+	padding-left: 6%;
+
+}
+.about
+{
+	font-size: 30px;
+	position: relative;
+	top:-34%;
+	padding-left: 13%;
+	color: rgb(128, 128, 128);
+
+}
+.to
+{
+	font-size: 70px;
+	position: relative;
+	top:-38%;
+	padding-left: 9%;
+	font-weight: 450;
+}
+.above
+{
+	position: relative;
+	top:-32px;
+}
+.custom
+{
+	font-size: 30px;
+	color: gray;
+	padding-left: 8%;
+	padding-top: 3%;
+}
+.fourth
+{
+padding-left: 10%;
+padding-right: 10%;
+}
+.over
+{
+	height: 230px;
+	width: 280px;
+	border-radius: 30px;
+	background-color:rgba(128, 128, 128,0.2) ;
+	position: relative;
+	top:-400px;
+	left:80px;
+	color: rgba(128, 128, 128,0.5);
+}
+.two
+{
+	font-size: 75px;
+	padding-left: 3%;
+	position: relative;
+	top:20px;
+}
+.globe
+{
+	padding-left: 19%;
+	font-size: 21px;
+	position: relative;
+	top:10px;
+}
+.the
+{
+	padding-left:75px;
+}
+.thousand
+{
+	font-size: 75px;
+	padding-left: 3%;
+	position: relative;
+	top:20px;
+	color: black;
+}
+.block
+{
+	
+    background-image: url("hand.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top:-240px;
+    border-radius: 60px;
+    
+    padding-top: -90px;
+    
+}
+.way
+{
+	font-size: 260px;
+	color: rgba(128, 128, 128, 0.2);
+	font-weight: bold;
+	position: relative;
+	top:-20px;
+	padding-left: 13%;
+	
+}
+.meet
+{
+	font-size: 65px;
+	color: white;
+	position: relative;
+	top:-230px;
+	left:80px;
+}
+
+.futur
+{
+	position: relative;
+	top:-35px;
+}
+.nice
+{
+	position: relative;
+	top:-70px;
+}
+.try
+{
+	background-color:rgb(143, 228, 78);
+	border-radius: 50px;
+	position: relative;
+	font-size: 20px;
+	padding-left: 4%;
+	padding-right: 4%;
+	position: relative;
+	top:-270px;
+	left:80px;
+	color:black ;
+	font-weight: bold;
+}
+.four
+{
+	font-size: 260px;
+	color: rgba(128, 128, 128, 0.2);
+	font-weight: bold;
+	position: relative;
+	top:-250px;
+	padding-left: 13%;
+	
+}
+.cart
+{
+	font-size: 70px;
+	position: relative;
+	top:-75%;
+	padding-left: 19%;
+	font-weight: 450;
+}
+.abov
+{
+	position: relative;
+	top:-40px;
+}
+.abo
+{
+	font-size: 30px;
+	position: relative;
+	top:-71%;
+	padding-left: 21%;
+	color: rgb(128, 128, 128);
+}
+.specific
+{
+	font-size: 30px;
+	color: rgb(128, 128, 128);
+	position: relative;
+	top:-20px;
+}
+.round
+{
+    height:350px;
+    width: 350px;
+    border-radius:40px;
+    background-color:rgba(128, 128, 128,0.6);
+    opacity: 0.2;
+    position: relative;
+    top:-420px;
+    left: 90px;
+    padding: 8% 2% 2% 2%;
+    margin-bottom: 20px;
+}
+.payo
+{
+	font-size: 60px;
+	position: relative;
+	top:90px;
+
+}
+.cb
+{
+	font-size: 90px;
+	position: relative;
+	top:90px;
+}
+.ovo
+{
+	position: relative;
+	top:80px;
+	height: 150px;
+}
+.wising
+{
+	position: relative;
+	top:80px;
+	height: 150px;
+	width: 400px;
+}
+.gpay
+{
+	position: relative;
+	top:90px;
+	height: 120px;
+}
+.stripe
+{
+	position: relative;
+	top:90px;
+	height: 120px;
+	width: 250px;
+}
+.net
+{
+	position: relative;
+	top:90px;
+	height: 120px;
+	width: 250px;
+}
+.ali
+{
+	position: relative;
+	top:90px;
+	height: 120px;
+	width: 250px;
+}
+.foo
+{
+	font-size: 260px;
+	color: rgba(128, 128, 128, 0.2);
+	font-weight: bold;
+	position: relative;
+	top:-500px;
+	padding-left: 13%;
+	
+}
+
+.boat
+{
+	font-size: 30px;
+	position: relative;
+	top:-700px;
+	padding-left: 21%;
+	color: rgb(128, 128, 128);
+}
+.carting
+{
+	font-size: 70px;
+	position: relative;
+	top:-730px;
+	padding-left: 19%;
+	font-weight: 450;
+}
+.carding
+{
+	font-size: 30px;
+	color: rgb(128, 128, 128);
+	position: relative;
+	top:-270px;
+}
+.video
+{
+	position: relative;
+	top:-720px;
+	left: 150px;
+	border-radius: 40px;
+}
+.last
+{
+    background-image: url("lines.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top:-600px;
+    padding-bottom: 350px;
+    border-radius: 50px 50px 0px 0px;
+    
+}
+.connect
+{
+	color: white;
+	font-size: 80px;
+	position: relative;
+	top:80px;
+	
+}
+.join
+{
+	background-color:rgb(143, 228, 78);
+	border-radius: 50px;
+	position: relative;
+	font-size: 20px;
+	padding-left: 4%;
+	padding-right: 4%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	position: relative;
+	top:100px;
+	color:black ;
+	font-weight: bold;
+}
+.beg
+{
+	color: white;
+	position: relative;
+	top:300px;
+	font-size: 28px;
+}
+.term
+{
+	color: rgb(128, 128, 128 );
+	position: relative;
+	top:350px;
+	left: 100px;
+	font-size: 23;
+}
+.all
+{
+	color: rgb(128, 128, 128 );
+	position: relative;
+	top:313px;
+	left: 470px;
+	font-size: 23;
+}
+.privacy
+{
+	color: rgb(128, 128, 128 );
+	position: relative;
+	top:280px;
+	left: 990px;
+	font-size: 23;
+}
+.blue
+{
+
+	color: white;
+	font-size: 80px;
+	position: relative;
+	top:-30px;
+	
+
+}
